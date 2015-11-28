@@ -1,0 +1,2 @@
+# UnityThirdPersonCamera
+camera_animation_mechanism
